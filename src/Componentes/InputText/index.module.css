@@ -1,0 +1,24 @@
+.inputs{
+    
+    
+}
+
+.emailSenha{
+    margin-bottom: 0.75rem;
+}
+
+.emailSenha >label{
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.emailSenha > input{
+    width: 70%;
+    height: 2rem;
+}
+
+.checkEsqueci{
+    display: flex;
+    
+    width: auto;
+}

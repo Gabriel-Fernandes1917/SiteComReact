@@ -1,0 +1,57 @@
+
+.Menu{
+    height: auto;
+    width: 60%;
+    padding: 1rem;
+
+    margin: 20% auto;
+    line-height: 12px;
+}
+
+.Menu >div > p > strong{
+    
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+}
+
+.buttonLogin {
+    margin-top: 1rem;
+}
+
+Button{
+
+    display: block;
+    margin-bottom: 1rem;
+
+    height: 3rem;
+    width: 70%;
+    padding: 0.5rem;
+
+    border: none;
+    border-radius: 5px;
+
+    background-color: #2D3748;
+
+    color: white;
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition: 1.2s all;
+}
+
+Button:first-of-type{
+    background-color: #04C35C;
+}
+
+button:hover{
+
+    transform: scale(1.2);
+}
+
+.x{
+    display: block;
+    background-color: green;
+    color: white;
+}
